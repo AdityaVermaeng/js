@@ -1,4 +1,4 @@
-// let obj = {git
+// let obj = {
 //     name: "john doe",
 //     age: 30,
 //     city: "new york",
