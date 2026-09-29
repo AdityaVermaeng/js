@@ -26,3 +26,10 @@ const result2=square(5);
 // square(5)
 console.log(square) // give the function that is  (a)=> a*a;
 console.log(result2);
+
+//example
+
+const subtract=(a,b)=> console.log(a-b);
+
+const p=subtract(20,10);
+console.log(p) //undefined because we are not returning anything from the function
